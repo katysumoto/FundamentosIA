@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1554484835 source:c:\documents and settings\administrador\desktop\macaco\estado.cpp
+	<iostream>
+	<cstdlib>
+	"estado.h"
+
+1554481723 c:\documents and settings\administrador\desktop\macaco\estado.h
+
+1554481055 source:c:\documents and settings\administrador\desktop\macaco\main.cpp
+	<iostream>
+	"pilha.h"
+	"estado.h"
+	<cstdlib>
+
+1554403952 c:\documents and settings\administrador\desktop\macaco\pilha.h
+	"estado.h"
+
+1554481555 source:c:\documents and settings\administrador\desktop\macaco\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"pilha.h"
+
